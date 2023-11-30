@@ -5,7 +5,6 @@ on:
     branches:
       - egc_test
   
-
 jobs:
   build:
 
